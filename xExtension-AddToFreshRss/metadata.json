@@ -1,0 +1,8 @@
+{
+	"name": "Add To FreshRSS",
+	"author": "ryanxamp",
+	"description": "Provides a bookmarklet and subscription URL to quickly subscribe to feeds from any web page.",
+	"version": "1.0.0",
+	"entrypoint": "AddToFreshRss",
+	"type": "user"
+}
